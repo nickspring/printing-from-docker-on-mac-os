@@ -40,7 +40,7 @@ IMAGE_ID
 ```
 
 REMARK: there is entrypoint to the bash just for testing only. You could change it according to your needs.
-Also, probably, --privileged option is not required here.
+Also, probably, ```--privileged``` option is not required here.
 
 ## Step 4. Testing
 
